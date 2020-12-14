@@ -1,1 +1,2 @@
-# PRO-C105-INTRODUCTION-TO-STANDARD-DEVIATION
+# Standard_deviation
+solution for c105
